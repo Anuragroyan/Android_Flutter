@@ -66,27 +66,7 @@ pip install -r requirements.txt
 ⸻
 
 🔄 Application Flow
-
-┌─────────────────┐
-│   Flutter App   │
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│   User Input    │
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│  Selected Model │
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│ Text Classifier │
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│ Prediction      │
-│     Result      │
-└─────────────────┘
+<img width="1226" height="1283" alt="image" src="https://github.com/user-attachments/assets/856f65d0-d9d4-4d51-90cb-34c1e9c8b9ed" />
 
 ⸻
 
