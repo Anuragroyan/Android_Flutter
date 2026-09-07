@@ -1,4 +1,6 @@
-# 🤖 Android_Flutter contains Python machine learning model files for Sarcasm Detector, Spam Message Detector, and Social Media Detector. These models are intended for integration with Flutter applications, enabling on-device text classification and AI-powered predictions.
+🤖 Android_Flutter
+
+# Android_Flutter contains Python machine learning model files for Sarcasm Detector, Spam Message Detector, and Social Media Detector. These models are intended for integration with Flutter applications, enabling on-device text classification and AI-powered predictions.
 
 🚀 Android_Flutter
 
